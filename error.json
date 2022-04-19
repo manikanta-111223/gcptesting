@@ -1,0 +1,64 @@
+{
+  "errors": [
+    {
+      "id": "ERR400_REQUIRED",
+      "name": "ERR400_REQUIRED",
+      "description": "Field is required."
+    },
+    {
+      "id": "ERR400_RANGE",
+      "name": "ERR400_RANGE",
+      "description": "Invalid range."
+    },
+    {
+      "id": "ERR400_RANGE_MIN",
+      "name": "ERR400_RANGE_MIN",
+      "description": "Value must be greater than or equal to the minimum."
+    },
+    {
+      "id": "ERR400_RANGE_MAX",
+      "name": "ERR400_RERR400_RANGE_MAXEQUIRED",
+      "description": "Value must be less than or equal to the maximum."
+    },
+    {
+      "id": "ERR400_LENGTH",
+      "name": "ERR400_LENGTH",
+      "description": "Invalid length."
+    },
+    {
+      "id": "ERR400_LENGTH_MIN",
+      "name": "ERR400_LENGTH_MIN",
+      "description": "Length must be greater than or equal to the minimum."
+    },
+    {
+      "id": "ERR400_LENGTH_MAX",
+      "name": "ERR400_LENGTH_MAX",
+      "description": "Length must be less than or equal to the maximum."
+    },
+    {
+      "id": "ERR400_PATTERN",
+      "name": "ERR400_PATTERN",
+      "description": "Invalid pattern."
+    },
+    {
+      "id": "ERR400_ENUM",
+      "name": "ERR400_ENUM",
+      "description": "Invalid enum."
+    },
+    {
+      "id": "ERR400_LIST",
+      "name": "ERR400_LIST",
+      "description": "Invalid list."
+    },
+    {
+      "id": "ERR400_UNKNOWN",
+      "name": "ERR400_UNKNOWN",
+      "description": "Unknown field."
+    },
+    {
+      "id": "ERR400_INVALID",
+      "name": "ERR400_INVALID",
+      "description": "Invalid value"
+    }
+  ]
+}
